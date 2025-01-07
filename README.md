@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src="" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://drive.google.com/file/d/1YScaak56pT0CZL_KAnDKnyIoz2Erbdu-/view?usp=sharing" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
