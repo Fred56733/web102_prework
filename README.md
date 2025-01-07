@@ -23,6 +23,8 @@ Here's a walkthrough of implemented features:
      title="Video Walkthrough" 
      alt="Video Walkthrough" />
 
+GIF created with [Kap](https://getkap.co/) for macOS
+
 ## Notes
 
 The app came out great and allow for the company to display all of their funding in one place. This allows for their followers to have a easy and seamless view experience.
