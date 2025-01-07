@@ -26,6 +26,7 @@ Here's a walkthrough of implemented features:
 ## Notes
 
 The app came out great and allow for the company to display all of their funding in one place. This allows for their followers to have a easy and seamless view experience.
+One issue I did experience was getting the GIF for my readme walkthrough, but I ended up using google drive and it worked much better.
 
 ## License
 
